@@ -46,13 +46,11 @@ body{
       color: $light-gray;
       margin-top: 15px;
     }
+  }
     footer{
       margin-top: auto;
       text-align: center;
     }
-
-
-  }
   @media screen and (min-width: $mobile) {
     main{
       height: 400px;

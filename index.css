@@ -43,7 +43,7 @@ body main p {
   color: hsl(210, 3%, 75%);
   margin-top: 15px;
 }
-body main footer {
+body footer {
   margin-top: auto;
   text-align: center;
 }
